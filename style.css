@@ -9,4 +9,11 @@ background-color:rgb(176,224,230);
 p{
  color: #bd0792;   
  font-size: 20px;
+
+}
+
+#imagemprincipal {
+width: 600px;
+height: 600px;
+
 }
